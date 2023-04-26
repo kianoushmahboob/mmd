@@ -1,0 +1,37 @@
+[
+  {
+    "name": "addresses",
+    "path": "/addresses",
+    "component": "/home/moomle/inProgresProjects/achareh/pages/addresses/index.vue",
+    "chunkName": "pages/addresses/index",
+    "_name": "_636654ea"
+  },
+  {
+    "name": "location",
+    "path": "/location",
+    "component": "/home/moomle/inProgresProjects/achareh/pages/location/index.vue",
+    "chunkName": "pages/location/index",
+    "_name": "_c0fa6b7a"
+  },
+  {
+    "name": "register-address",
+    "path": "/register-address",
+    "component": "/home/moomle/inProgresProjects/achareh/pages/register-address/index.vue",
+    "chunkName": "pages/register-address/index",
+    "_name": "_4903e7d0"
+  },
+  {
+    "name": "success",
+    "path": "/success",
+    "component": "/home/moomle/inProgresProjects/achareh/pages/success/index.vue",
+    "chunkName": "pages/success/index",
+    "_name": "_fd75c96a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/moomle/inProgresProjects/achareh/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3b998952"
+  }
+]

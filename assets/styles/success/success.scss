@@ -1,0 +1,47 @@
+.register-success {
+    i{
+        color: #323232;
+        font-size: 50px;
+    }
+    p{
+        font-size: 18px;
+        font-weight: bold;
+    }
+  .submit-btn {
+    width: 300px;
+    background-color: #2ebba6 !important;
+    border-color: #2ebba6 !important;
+    color: #2ebba6;
+    border-radius: 3px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    background-color: transparent !important;
+    border: 1px solid;
+    border-color: #2ebba6;
+    height: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: all ease-in-out .15s;
+    cursor: pointer;
+    &:hover{
+      background-color: #2ebba6 !important;
+      color: #fff;
+    }
+  }
+}
+
+@media screen and (max-width : 574px) {
+    .submit-btn{
+        width: 100% !important;
+    }
+}
+
+.addresses-page-link{
+  text-decoration: underline;
+  color: #2ebba6;
+  font-weight: bold;
+  cursor: pointer;
+}

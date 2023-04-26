@@ -1,0 +1,21 @@
+.user-address{
+    border-top: 1px solid #dddddd;
+    padding-top: 1rem;   
+}
+@media screen and (min-width : 768px){
+    .user-address{
+        border-top: none;
+        padding-top: 0;   
+    }   
+}
+
+.address-parts{
+    label{
+        font-weight: bold;
+        color: #999999;
+    }
+    span{
+        font-weight: bold;
+        color: #434343;
+    }
+}

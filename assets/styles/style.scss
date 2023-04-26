@@ -1,0 +1,45 @@
+@import './fonts.scss';
+
+* {
+    font-family: Sahel !important;
+}
+
+body{
+    direction: rtl;
+    background-color: rgb(248, 246, 246);
+}
+
+header{
+    background-color: #fff !important;
+}
+
+.site-bg{
+    background-color: rgb(248, 246, 246);
+    height: 100%;
+    max-height: 100%;
+    min-height: 100%;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.swal2-popup.swal2-toast{
+    bottom: 115px !important;
+}
+
+.is-invalid {
+    border-color: red !important;
+}
+
+.loading-spiner{
+    width: 20px !important;
+    height: 20px !important;
+    color: #2ebba6 !important;
+    margin-right: 7px !important;
+    vertical-align: -4px !important;
+}
+
+.loading-content p{
+    text-align: center;
+    color: #323232;
+    font-size: 20px;
+}

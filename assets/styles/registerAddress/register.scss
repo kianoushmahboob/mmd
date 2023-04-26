@@ -1,0 +1,83 @@
+.register-fields {
+  label {
+    font-weight: bold;
+    color: #424242;
+    margin-bottom: 5px;
+  }
+  input::placeholder {
+    font-size: 14px;
+    color: rgb(185, 185, 185);
+    font-weight: bold;
+  }
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  border-color: #2ebba6 !important;
+}
+.form-control {
+  font-weight: bold;
+  border-radius: 5px !important;
+  border: 1px solid !important;
+  border-color: #bdbdbd !important;
+  box-shadow: -6px -1px 8px -119px rgba(125, 125, 125, 0.23);
+  -webkit-box-shadow: -6px -1px 8px -119px rgba(125, 125, 125, 0.23);
+  -moz-box-shadow: -6px -1px 8px -119px rgba(125, 125, 125, 0.23);
+}
+#radio-group-1 {
+  display: flex;
+  align-items: center;
+}
+.custom-radio {
+  margin: 5px !important;
+  label {
+    span {
+      font-weight: bold;
+      margin-right: 10px !important;
+    }
+  }
+}
+
+.form-control.is-invalid{
+  border-color: red !important;
+}
+
+.submit-form{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 30px;
+    background-color: #fff;
+    border-top: 1px solid #d4d4d4;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    box-shadow:0px 0px 25px 0px rgba(69,69,69,0.25);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .submit-btn{
+        width: 200px;
+        background-color: #2ebba6 !important;
+        border-color: #2ebba6 !important;
+    }
+}
+
+.location-page-arrow{
+  font-size: 23px;
+  color: #2ebba6;
+  vertical-align: -3px;
+  margin-left: 20px;
+}
+
+.vue-map-container{
+  width: 100% !important;
+}
+
+
+.explanation{
+  padding-bottom: 13rem;
+}
+
+.register-address-loading{
+  color: white !important;
+}

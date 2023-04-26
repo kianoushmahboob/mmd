@@ -1,0 +1,44 @@
+{
+  "Home": {
+    "description": "Auto imported from components/home.vue"
+  },
+  "Addresses": {
+    "description": "Auto imported from components/addresses/Addresses.vue"
+  },
+  "GoogleMap": {
+    "description": "Auto imported from components/googleMap/map.vue"
+  },
+  "LayoutFooter": {
+    "description": "Auto imported from components/layout/Footer.vue"
+  },
+  "LayoutHeader": {
+    "description": "Auto imported from components/layout/Header.vue"
+  },
+  "Location": {
+    "description": "Auto imported from components/location/Location.vue"
+  },
+  "RegisterAddress": {
+    "description": "Auto imported from components/register-addresses/RegisterAddress.vue"
+  },
+  "Success": {
+    "description": "Auto imported from components/success/success.vue"
+  },
+  "AddressesMixins": {
+    "description": "Auto imported from components/addresses/_mixins/AddressesMixins.js"
+  },
+  "AddressesVariables": {
+    "description": "Auto imported from components/addresses/_mixins/AddressesVariables.js"
+  },
+  "LocationMixins": {
+    "description": "Auto imported from components/location/_mixins/LocationMixins.js"
+  },
+  "LocationVariables": {
+    "description": "Auto imported from components/location/_mixins/LocationVariables.js"
+  },
+  "RegisterMixins": {
+    "description": "Auto imported from components/register-addresses/_mixins/RegisterMixins.js"
+  },
+  "RegisterVariables": {
+    "description": "Auto imported from components/register-addresses/_mixins/RegisterVariables.js"
+  }
+}
